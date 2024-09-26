@@ -69,8 +69,6 @@ Alguns módulos presentes em pygame são:
 |             surfarray            |                   manipula imagens com NumPy.                   |
 
 
-FONTE: [LINK](http://www.labtime.ufg.br/cgames/pdf/CProgPy_Pygame.pdf)
-
 ### Instalando o Pygame
 
 Inicialmente é necessário ter o Python instalado e o pip. Caso não tenha um dos dois instalados siga o passo a passo visto [aqui para Linux](https://python.org.br/instalacao-linux/) ou [aqui para Windows](https://python.org.br/instalacao-windows/) **e não se esqueça de adicionar Python na variável de ambiente!**.

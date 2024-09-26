@@ -19,9 +19,6 @@ O objetivo do jogo é destruir os aliens com a sua nave e dessa forma impedir qu
     - [Eventos Essenciais em um jogo](#eventos-essenciais-em-um-jogo)
     - [Pygame](#pygame)
     - [Instalando o Pygame](#instalando-o-pygame)
-    - [Executando o jogo](#executando-o-jogo)
-    - [Detalhes da Construção do Jogo](#detalhes-da-constru%c3%a7%c3%a3o-do-jogo)
-    - [Comandos](#comandos)
 
 ### Eventos Essenciais em um jogo
 

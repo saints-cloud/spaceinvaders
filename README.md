@@ -22,8 +22,6 @@ O objetivo do jogo é destruir os aliens com a sua nave e dessa forma impedir qu
     - [Executando o jogo](#executando-o-jogo)
     - [Detalhes da Construção do Jogo](#detalhes-da-constru%c3%a7%c3%a3o-do-jogo)
     - [Comandos](#comandos)
-    - [Links Úteis](#links-%c3%9ateis)
-    - [Autores](#autores)
 
 ### Eventos Essenciais em um jogo
 
